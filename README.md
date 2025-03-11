@@ -47,7 +47,7 @@ Este es un proyecto interactivo que permite a los usuarios agregar nombres de am
 
 5. Se mostrará el nombre del amigo secreto elegido.
 . ![4](https://github.com/user-attachments/assets/38abbbda-2f00-4002-b65b-0565f6236ec9)
-
+ 
 
 
 
