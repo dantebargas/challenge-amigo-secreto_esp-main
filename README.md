@@ -1,8 +1,8 @@
 # Amigo Secreto 🎁
 
-Este es un proyecto web interactivo que permite a los usuarios agregar nombres de amigos y realizar un sorteo aleatorio para elegir un "amigo secreto".
+Este es un proyecto interactivo que permite a los usuarios agregar nombres de amigos y realizar un sorteo aleatorio para elegir un "amigo secreto".
 
-## 📌 Funcionalidades
+##  Funcionalidades
 - Agregar nombres a una lista.
 - Validación para evitar nombres vacíos.
 - Sorteo aleatorio de un amigo secreto.
